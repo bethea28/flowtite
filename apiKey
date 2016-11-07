@@ -1,0 +1,8 @@
+rhymebrain
+http://rhymebrain.com/talk?function=getWordInfo&word=
+
+urban dictionary 
+http://api.urbandictionary.com/v0/define?term=
+
+meriam dictionary 
+"http://www.dictionaryapi.com/api/v1/references/collegiate/xml/" + WORD + "?key=3c443f0f-94fe-4819-8b00-6e2e1e2f3cdd"
